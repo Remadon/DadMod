@@ -3,7 +3,7 @@
 <img width="1119" height="249" alt="image" src="https://github.com/user-attachments/assets/51533157-8d77-48fd-a91f-95d589e59190" />
 
 Installation:
-Drop it in the mods directory. It expects NeoForge, and minecraft 26.1.2 at this time. More platforms, modloaders and older/newer minecraft versions are planned.
+Drop it in the server's mods directory. It expects NeoForge, and minecraft 26.1.2 at this time. More platforms, modloaders and older/newer minecraft versions are planned.
 
 Configuration:
 There are four things you may configure:
