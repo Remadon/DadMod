@@ -1,5 +1,7 @@
 # DadMod - An Automated, Lightweight, Configurable Mod, to Troll Your Players
 
+<img width="1119" height="249" alt="image" src="https://github.com/user-attachments/assets/51533157-8d77-48fd-a91f-95d589e59190" />
+
 Installation:
 Drop it in the mods directory. It expects NeoForge, and minecraft 26.1.2 at this time. More modloaders and older/newer minecraft versions are planned.
 
